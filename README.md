@@ -67,11 +67,13 @@ Figure 2: Train_test_split
 <img width="829" alt="image" src="https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data-Analysis/assets/143279111/22180f4f-2078-48f4-944d-04c8da8f044a">
 
 Table 3: Regression Models and Train/Test Accuracies
+
 <img width="473" alt="image" src="https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data-Analysis/assets/143279111/a75f2f0c-5cf9-4fd8-9eb5-1992deca07e2">
 
 Upon evaluating the train accuracies for each model, we identified that Linear, Ridge, and Elastic Net regression were all severely overfitted. Although the Least Absolute Shrinkage and Selection Operator (LASSO) regression was also overfitting, train accuracy and test accuracy of 0.47 and 0.28, respectively, proved to be the most accurate in the given circumstances. The Least Absolute Shrinkage and Selection Operator (LASSO) regression is employed for more prediction accuracy in which shrinkage pulls data points towards the mean (Ranstam J. & Cook J. A., 2018).
 
 Figure 3: LASSO Regression Equation
+
 <img width="667" alt="image" src="https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data-Analysis/assets/143279111/46d1c171-8ac9-4da1-9563-8e64a1a89d60">
 
 Source: Dwarki (2022, July 18)
