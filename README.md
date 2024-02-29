@@ -49,10 +49,12 @@ The Pandas package from Python was used in the data-cleaning process of our rese
 Table 1: Table of Variables with Values from 1979 - 1994
 <img width="538" alt="image" src="https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data-Analysis/assets/143279111/5ffa7741-967f-4c5b-9b41-240d8fee83aa">
 
+
 Note. The table above displays the data from 1979 - 1994 after cleaning the datasets with the Pandas drop method.
 
 Table 2: Table of Variables with Values from 1996 - 2018
 <img width="486" alt="image" src="https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data-Analysis/assets/143279111/03e5a15a-ea0e-4f98-bd11-8950c02c1238">
+
 
 Note. The table above displays the data from 1996 - 2018 after cleaning the datasets with the Pandas drop method.
 
