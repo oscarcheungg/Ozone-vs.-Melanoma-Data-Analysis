@@ -4,7 +4,7 @@ Project Poster: ![image](https://github.com/oscarcheungg/Ozone-vs.-Melanoma-Data
 
 Project Presentation: https://docs.google.com/presentation/d/1NUrXpARbfYUEleM5kn4CVs9BD6nU360qjHn2lP3g0t0/edit?usp=sharing
 
-__I. Abstract__
+# I. Abstract
 
 Correlations have been identified in the past between ozone concentration and UV radiation. This led us to suspect a correlation between the ozone concentration and the increase of melanoma rates over the years in New Zealand, alongside other external factors. Our research explores the correlation between the atmospheric ozone concentration and the rates of melanoma in New Zealand. We also utilized predictive modeling (LASSO) in an attempt to predict rates of melanoma using ozone data. Findings from our research indicate a strong negative correlation between the ozone concentration and the rates of melanoma in New Zealand. Our research results also indicate that external factors also significantly influence the melanoma rates in New Zealand. Furthermore, we deemed our dataset unviable for predictive analysis as it contains few attributes and observations. Lastly, future applications of radioisotopes were considered to alleviate melanoma rate through the use of the Solution Cathode Glow Discharge. Keywords: Melanoma, Ozone, New Zealand
 
@@ -16,7 +16,8 @@ The ozone layer is a protective region of the Earth’s stratosphere, lying roug
 
 New Zealand melanoma cases and rates have increased dramatically since the 1960s (Jones et al., 1999). The underlying cause of the disproportionate rate of melanoma cases in New Zealand compared to the rest of the world is its geographic location. New Zealand is one of the countries closest to the Antarctic ozone hole; hence, New Zealand experiences high levels of ambient UV radiation, with UV indices ranging between 15 and 11 in big cities during the summer season (Sneyd & Cox, 2013). This dramatic proportion of skin cancer cases is important to consider as these skin cancer cases are a result of the depletion of our ozone layer from climate change, which allows for increased UV radiation to penetrate the Earth (Armstrong & Kricker, 1995; D’Orazio et al., 2013). Thus, the purpose of this study is to evaluate the relationship between ozone concentration in the stratosphere and annual melanoma rates in New Zealand and to predict future instances of melanoma using predictive Machine Learning models. Through this process, we hope to develop a comprehensive understanding of how ozone concentrations correlate to the cases of skin cancer alongside other factors to evaluate and forecast future rates of melanoma based on the fluctuations of ozone concentration in the stratosphere to research creative solutions for treating cancer. Furthermore, assessing the predictive models will provide necessary information for estimating the severity of melanoma rates in the future.
 
-Research Questions
+
+__Research Questions__
 This research project aims to address the adverse effects of climate change on our planet. Specifically, we are inquisitive concerning the possible trends between ozone concentration in New Zealand and melanoma rates. Furthermore, suppose a substantial negative correlation between ozone concentration and melanoma rates exists. In that case, our pursuit will be to develop a machine-learning model that accurately predicts the rates of melanoma given the ozone concentration. Thus, the research questions that lie at the foundation of our investigation and guide our study are as follows:
 
 Does ozone concentration correlate with the melanoma rates in New Zealand?]
